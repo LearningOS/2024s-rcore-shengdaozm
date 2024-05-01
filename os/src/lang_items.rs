@@ -1,5 +1,5 @@
 //! The panic handler
-
+// 自行实现panic！的错误处理函数
 use crate::sbi::shutdown;
 use core::panic::PanicInfo;
 
